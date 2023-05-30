@@ -143,6 +143,7 @@ input[type="button"]{
 	background: linear-gradient(160deg, #dd7200, #ffb236);
 }
 
+/*LATERAL*/
 .lateral{
 	grid-area: lateral;
 	background: #f6f7f9;
@@ -177,6 +178,9 @@ input[type="button"]{
 	border-color: transparent;
 }
 
+.no-encontrado{
+	color: #9b0202;
+}
 /*FOOTER*/
 
 footer{
